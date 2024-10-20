@@ -14,7 +14,7 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
-import PDFViewer from "./PDFviewer";
+import PDFViewer from "./PDFViewer";
 import axios from "axios";
 import { Toaster, toast } from "sonner";
 import moment from "moment";
